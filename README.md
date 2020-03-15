@@ -17,6 +17,11 @@ The aim is to develop a color sensor that is LDR (Light Dependent Resistor) base
 
 
 # Theory:
+
+
+
+![image](https://user-images.githubusercontent.com/62196439/76695900-c8f20880-66aa-11ea-8834-9820590eef55.png)
+
  
 LDR stands for Light Dependent Resistor, which is a passive electronic component, basically a resistor which has a resistance that varies depending of the light intensity. The resistance of a photoresistor decreases with increase in incident light intensity; in other words, it exhibits photoconductivity. 
 Our job here is to develop the LDR in such a way that it is able to detect the basic colors i.e. Red, Green and Blue.
